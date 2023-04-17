@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navlinks {
+  display: flex;
+  gap: 1rem;
+}
+
+.navlinks>li {
+  list-style: none;
+}
